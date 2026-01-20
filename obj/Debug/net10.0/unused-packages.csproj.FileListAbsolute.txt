@@ -1,0 +1,14 @@
+/Users/pablo/unused-packages/bin/Debug/net10.0/unused-packages
+/Users/pablo/unused-packages/bin/Debug/net10.0/unused-packages.deps.json
+/Users/pablo/unused-packages/bin/Debug/net10.0/unused-packages.runtimeconfig.json
+/Users/pablo/unused-packages/bin/Debug/net10.0/unused-packages.dll
+/Users/pablo/unused-packages/bin/Debug/net10.0/unused-packages.pdb
+/Users/pablo/unused-packages/obj/Debug/net10.0/unused-packages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pablo/unused-packages/obj/Debug/net10.0/unused-packages.AssemblyInfoInputs.cache
+/Users/pablo/unused-packages/obj/Debug/net10.0/unused-packages.AssemblyInfo.cs
+/Users/pablo/unused-packages/obj/Debug/net10.0/unused-packages.csproj.CoreCompileInputs.cache
+/Users/pablo/unused-packages/obj/Debug/net10.0/unused-packages.dll
+/Users/pablo/unused-packages/obj/Debug/net10.0/refint/unused-packages.dll
+/Users/pablo/unused-packages/obj/Debug/net10.0/unused-packages.pdb
+/Users/pablo/unused-packages/obj/Debug/net10.0/unused-packages.genruntimeconfig.cache
+/Users/pablo/unused-packages/obj/Debug/net10.0/ref/unused-packages.dll
