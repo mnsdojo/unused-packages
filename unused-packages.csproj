@@ -6,6 +6,15 @@
     <RootNamespace>unused_packages</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    
+    <!-- Packaging Metadata -->
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>unused-packages</ToolCommandName>
+    <PackageId>unused-packages</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Pablo</Authors>
+    <Description>A CLI tool to find unused NuGet packages in C# projects.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>

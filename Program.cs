@@ -41,6 +41,42 @@ class Program
 
       ctx.Status("Analyzing source files...");
 
+      var usedNameSpaces = await Analyzer.GetUsedNameSpacesAsync(Path.GetDirectoryName(csProj)!);
+
+
+      ctx.Status("Building Report");
+
+      var table = new Table()
+          .Border(TableBorder.Rounded)
+          .Title("[bold cyan]Package Usage Report[/]");
+
+
+      table.AddColumn("Package");
+      table.AddColumn("Version");
+      table.AddColumn("Status");
+
+
+      foreach (var pkg in packageReferences)
+      {
+        var isUsed = Analyzer.IsPackageUsedAsync(usedNameSpaces, pkg.Name);
+
+        var status = isUsed
+            ? "[green]USED[/]"
+            : "[red]UNUSED[/]";
+        table.AddRow(
+pkg.Name,
+pkg.Version,
+status
+);
+
+
+      }
+
+      AnsiConsole.Write(table);
+
+
+
+
 
     });
 

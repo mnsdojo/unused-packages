@@ -70,3 +70,4 @@
 /Users/pablo/unused-packages/bin/Debug/net10.0/zh-Hant/Humanizer.resources.dll
 /Users/pablo/unused-packages/obj/Debug/net10.0/unused-packages.csproj.AssemblyReference.cache
 /Users/pablo/unused-packages/obj/Debug/net10.0/unused-p.ECE11635.Up2Date
+/Users/pablo/unused-packages/bin/Debug/net10.0/Spectre.Console.dll

@@ -2,6 +2,19 @@
 
 class Analyzer
 {
+
+  public static bool IsPackageUsedAsync(HashSet<string> usedNameSpaces, string packageName)
+  {
+    foreach (var ns in usedNameSpaces)
+    {
+      if (ns.StartsWith(packageName, StringComparison.Ordinal))
+      {
+        return true;
+      }
+
+    }
+    return false;
+  }
   public static async Task<HashSet<string>> GetUsedNameSpacesAsync(string projectRoot)
   {
     var usedNamespaces = new HashSet<string>(StringComparer.Ordinal);

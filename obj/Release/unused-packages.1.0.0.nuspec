@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>unused-packages</id>
+    <version>1.0.0</version>
+    <authors>Pablo</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>A CLI tool to find unused NuGet packages in C# projects.</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" commit="19c6b5735c48622f09615176b309e944ac19c7ad" />
+  </metadata>
+  <files>
+    <file src="/Users/pablo/unused-packages/obj/Release/net10.0/DotnetToolSettings.xml" target="tools/net10.0/any/DotnetToolSettings.xml" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/Humanizer.dll" target="tools/net10.0/any/Humanizer.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/Newtonsoft.Json.dll" target="tools/net10.0/any/Newtonsoft.Json.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/Polly.Core.dll" target="tools/net10.0/any/Polly.Core.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/Polly.dll" target="tools/net10.0/any/Polly.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/Spectre.Console.dll" target="tools/net10.0/any/Spectre.Console.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/unused-packages.deps.json" target="tools/net10.0/any/unused-packages.deps.json" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/unused-packages.dll" target="tools/net10.0/any/unused-packages.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/unused-packages.pdb" target="tools/net10.0/any/unused-packages.pdb" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/unused-packages.runtimeconfig.json" target="tools/net10.0/any/unused-packages.runtimeconfig.json" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/af/Humanizer.resources.dll" target="tools/net10.0/any/af/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/ar/Humanizer.resources.dll" target="tools/net10.0/any/ar/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/az/Humanizer.resources.dll" target="tools/net10.0/any/az/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/bg/Humanizer.resources.dll" target="tools/net10.0/any/bg/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/bn/Humanizer.resources.dll" target="tools/net10.0/any/bn/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/ca/Humanizer.resources.dll" target="tools/net10.0/any/ca/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/cs/Humanizer.resources.dll" target="tools/net10.0/any/cs/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/da/Humanizer.resources.dll" target="tools/net10.0/any/da/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/de/Humanizer.resources.dll" target="tools/net10.0/any/de/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/el/Humanizer.resources.dll" target="tools/net10.0/any/el/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/es/Humanizer.resources.dll" target="tools/net10.0/any/es/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/fa/Humanizer.resources.dll" target="tools/net10.0/any/fa/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/fi/Humanizer.resources.dll" target="tools/net10.0/any/fi/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/fil/Humanizer.resources.dll" target="tools/net10.0/any/fil/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/fr/Humanizer.resources.dll" target="tools/net10.0/any/fr/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/he/Humanizer.resources.dll" target="tools/net10.0/any/he/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/hr/Humanizer.resources.dll" target="tools/net10.0/any/hr/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/hu/Humanizer.resources.dll" target="tools/net10.0/any/hu/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/hy/Humanizer.resources.dll" target="tools/net10.0/any/hy/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/id/Humanizer.resources.dll" target="tools/net10.0/any/id/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/is/Humanizer.resources.dll" target="tools/net10.0/any/is/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/it/Humanizer.resources.dll" target="tools/net10.0/any/it/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/ja/Humanizer.resources.dll" target="tools/net10.0/any/ja/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/ko/Humanizer.resources.dll" target="tools/net10.0/any/ko/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/ku/Humanizer.resources.dll" target="tools/net10.0/any/ku/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/lb/Humanizer.resources.dll" target="tools/net10.0/any/lb/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/lt/Humanizer.resources.dll" target="tools/net10.0/any/lt/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/lv/Humanizer.resources.dll" target="tools/net10.0/any/lv/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/ms/Humanizer.resources.dll" target="tools/net10.0/any/ms/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/mt/Humanizer.resources.dll" target="tools/net10.0/any/mt/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/nb/Humanizer.resources.dll" target="tools/net10.0/any/nb/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/nl/Humanizer.resources.dll" target="tools/net10.0/any/nl/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/pl/Humanizer.resources.dll" target="tools/net10.0/any/pl/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/pt-BR/Humanizer.resources.dll" target="tools/net10.0/any/pt-BR/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/pt/Humanizer.resources.dll" target="tools/net10.0/any/pt/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/ro/Humanizer.resources.dll" target="tools/net10.0/any/ro/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/ru/Humanizer.resources.dll" target="tools/net10.0/any/ru/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/sk/Humanizer.resources.dll" target="tools/net10.0/any/sk/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/sl/Humanizer.resources.dll" target="tools/net10.0/any/sl/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/sr-Latn/Humanizer.resources.dll" target="tools/net10.0/any/sr-Latn/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/sr/Humanizer.resources.dll" target="tools/net10.0/any/sr/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/sv/Humanizer.resources.dll" target="tools/net10.0/any/sv/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/th/Humanizer.resources.dll" target="tools/net10.0/any/th/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/tr/Humanizer.resources.dll" target="tools/net10.0/any/tr/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/uk/Humanizer.resources.dll" target="tools/net10.0/any/uk/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/uz-Cyrl-UZ/Humanizer.resources.dll" target="tools/net10.0/any/uz-Cyrl-UZ/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/uz-Latn-UZ/Humanizer.resources.dll" target="tools/net10.0/any/uz-Latn-UZ/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/vi/Humanizer.resources.dll" target="tools/net10.0/any/vi/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/zh-CN/Humanizer.resources.dll" target="tools/net10.0/any/zh-CN/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/zh-Hans/Humanizer.resources.dll" target="tools/net10.0/any/zh-Hans/Humanizer.resources.dll" />
+    <file src="/Users/pablo/unused-packages/bin/Release/net10.0/publish/zh-Hant/Humanizer.resources.dll" target="tools/net10.0/any/zh-Hant/Humanizer.resources.dll" />
+  </files>
+</package>
