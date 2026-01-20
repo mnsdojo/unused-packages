@@ -1,6 +1,6 @@
 # unused-packages
 
-A fast and helpful CLI tool to identify unused NuGet packages in your C# projects. It helps keep your dependencies clean and your build times fast.
+A fast and helpful CLI tool to identify unused NuGet packages in your C# projects
 
 ## Installation
 
