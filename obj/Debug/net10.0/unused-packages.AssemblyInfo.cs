@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("unused-packages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7472e99884b83fc98187aa5db385fc50c8d0e13d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f18d0bdda838f81249fa6794a9343d43321788c")]
 [assembly: System.Reflection.AssemblyProductAttribute("unused-packages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("unused-packages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
